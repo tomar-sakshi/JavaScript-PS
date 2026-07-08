@@ -1,2 +1,0 @@
-# JS-PRACTICE
-learning js
